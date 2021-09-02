@@ -6,5 +6,7 @@
 | <a href="https://github.com/Innanov/Virtual-Swag/blob/main/Qiskit%20Global%20Summer%20School%20Emoji%20Set.zip">Qiskit Global Summer School Emoji Set </a> & <a href="https://github.com/Innanov/Virtual-Swag/blob/main/Qiskit%20Global%20Summer%20School%20Wallpaper%20Backgrounds.zip">Qiskit Global Summer School Wallpaper Backgrounds </a>  |  Qiskit Global Summer School 2021      |
 | <a href="https://github.com/Innanov/Virtual-Swag/blob/main/MakeUCVirtualSwag.zip">MakeUCVirtualSwag</a> | MakeUC Hackathon 2021      |
 | <a href="https://github.com/Innanov/Virtual-Swag/blob/main/Virtual-Swag-QIWQ.zip">Virtual-Swag-QIWQ</a>       | Qiskit India Week of Quantum 2021 |
+| <a href="https://github.com/Innanov/Virtual-Swag/blob/main/Hack%20This%20Fall%20Swag.zip">Hack This Fall Swag</a>     | Hack This Fall 2.0 2021     |
 
 
+Hack This Fall 2.0 2021
