@@ -7,6 +7,8 @@
 | <a href="https://github.com/Innanov/Virtual-Swag/blob/main/MakeUCVirtualSwag.zip">MakeUCVirtualSwag</a> | MakeUC Hackathon 2021      |
 | <a href="https://github.com/Innanov/Virtual-Swag/blob/main/Virtual-Swag-QIWQ.zip">Virtual-Swag-QIWQ</a>       | Qiskit India Week of Quantum 2021 |
 | <a href="https://github.com/Innanov/Virtual-Swag/blob/main/Hack%20This%20Fall%20Swag.zip">Hack This Fall Swag</a>     | Hack This Fall 2.0 2021     |
+| <a href="https://github.com/Innanov/Virtual-Swag/blob/main/Space_Apps_Logos.zip">Space_Apps_Logos</a>     | NASA International Space Apps Challenge 2021     |
+
 
 
 Hack This Fall 2.0 2021
